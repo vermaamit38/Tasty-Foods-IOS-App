@@ -1,6 +1,7 @@
 # Tasty Foods IOS App
 
-This App is All about amazing Food Recipes in 4k.
+App written in Swift 3.1 
+This App is All about amazing Food Recipes in 4k from my Youtube Channel.
 
  Currenty available on app store for ipad and iphone
  
